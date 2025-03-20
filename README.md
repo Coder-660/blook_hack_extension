@@ -1,6 +1,6 @@
-#Guide to install
+# Guide to install
 
-##Zip
+## Zip
 1. Download the zip and extract it
 2. Then open chrome
 3. Go to extension settings
