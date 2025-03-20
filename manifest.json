@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "Blooket hacks",
+    "description": "This is a extension for hacking blooket. It lets you copy 05konz's code for his ui, which allows you to hack blooket. Please use responsible, if you get banned from blooket, it is not my fault. Here is the source of hack: https://githubman6996.github.io/05konz-blooket-site/",
+    "version": "1.0",
+    
+    "permissions": [
+      "clipboardWrite",
+      "clipboardRead"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+    }
+}
